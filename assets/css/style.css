@@ -5,6 +5,7 @@ html {
 body {
     background-image: url("../images/vintage-concrete.png");
     background-repeat: repeat;
+    font-family: 'Quicksand', sans-serif;
 }
 
 .headerA {
