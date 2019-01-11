@@ -8,6 +8,7 @@ body {
     font-family: 'Quicksand', sans-serif;
 }
 
+
 #card2 {
     background-color: #cfcdcd00;
 }
@@ -17,7 +18,13 @@ body {
 }
 
 .headerA {
+    position: relative;
     margin-top: 0px;
+    z-index: 1;
+}
+
+.picCol {
+
 }
 
 .pics {
@@ -34,6 +41,7 @@ body {
 
 
 #card1 {
+    z-index: 0;
     border-radius: 0px;
     width: 100%;
     height: 100%;
